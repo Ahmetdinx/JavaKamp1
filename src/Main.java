@@ -37,6 +37,9 @@ public static void main (String[]args){
 
     for (int i = 0; i< krediler.length; i++){
         System.out.println(krediler[i]);
+
+
+        System.out.println("Deneme");
     }
  }
 }

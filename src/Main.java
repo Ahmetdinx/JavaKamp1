@@ -39,7 +39,7 @@ public static void main (String[]args){
         System.out.println(krediler[i]);
 
 
-        System.out.println("Deneme");
+
     }
  }
 }
